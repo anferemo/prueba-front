@@ -1,0 +1,8 @@
+com\ibm\prueba\service\pruebatecnica\entity\Clientes_.class
+com\ibm\prueba\service\pruebatecnica\facade\ClientesFacade.class
+com\ibm\prueba\service\pruebatecnica\facade\ClientesFacadeLocal.class
+com\ibm\prueba\service\pruebatecnica\endpoint\ClientesFacadeREST.class
+com\ibm\prueba\service\pruebatecnica\facade\AbstractFacade.class
+com\ibm\prueba\service\pruebatecnica\endpoint\AbstractFacade.class
+com\ibm\prueba\service\pruebatecnica\endpoint\ApplicationConfig.class
+com\ibm\prueba\service\pruebatecnica\entity\Clientes.class
